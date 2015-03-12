@@ -1,2 +1,2 @@
 all:
-	gcc host.c -o host
+	gcc -Wall host.c -o host

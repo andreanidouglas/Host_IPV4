@@ -4,7 +4,7 @@
 #include <arpa/inet.h>
 #include <netdb.h>
 #include <stdio.h>
-
+#include <strings.h>
 
 char* getHostNameByAddress(char* address);
 
